@@ -1,0 +1,5 @@
+name: Welcome messages
+version: 0.1
+api: 1.2.10
+main: Welcome msg\src\Main
+author: Nomade[OMEGA]
