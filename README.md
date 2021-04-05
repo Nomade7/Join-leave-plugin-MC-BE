@@ -1,4 +1,4 @@
 # Join-leave-plugin-MC-BE-
 ***Simple plugin for Minecraft Bedrock edition***
 
-Dm me on discord for help
+Dm me on discord for help ! NOMΔDE#0999
